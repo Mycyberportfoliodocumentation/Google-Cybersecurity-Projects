@@ -1,2 +1,39 @@
-# Google-Cybersecurity-Projects
-A curated collection of hands-on cybersecurity lab reports, documentation, and technical milestones
+# 🛡️ Google Cybersecurity Certificate - Project Portfolio
+
+Welcome to my cybersecurity portfolio! This repository serves as a centralized hub documenting the practical labs, security analyses, and technical projects I completed while earning the **Google Cybersecurity Professional Certificate**.
+
+The hands-on environments are powered by **Qwiklabs (Google Cloud Skills Boost)**, focusing on real-world security engineering, incident response, and system administration.
+
+---
+
+## 💻 Tech Stack & Tools
+
+* **Operating Systems:** Linux (Ubuntu/Debian CLI), Windows
+* **Security Tools:** Wireshark, tcpdump, Suricata (IDS/IPS), Chronicle SIEM, Splunk
+* **Core Skills:** Network Security, Log Analysis, Package Management, Access Control (IAM), Python Automation
+
+---
+
+## 📋 Professional Certifications
+* **Google Cybersecurity Professional Certificate (In Progress)**
+  * ✅ Foundations of Cybersecurity - **Completed**
+  * ✅ Play It Safe: Manage Security Risks - **Completed**
+  * ✅ Connect and Protect: Networks and Network Security - **Completed**
+  * ✅ Tools of the Trade: Linux and SQL - **Completed**
+---
+
+## 📂 Portfolio Projects & Labs
+
+| Category | Project / Lab Name | Core Tools Used | Documentation Link |
+| :--- | :--- | :--- | :--- |
+| **Linux & CLI** | Managing Software with APT (Suricata & tcpdump) | APT, Bash, CLI | [Read Report](./linux-software-installation/) |
+| **Linux & CLI** | Automating CLI Data Streams & I/O Redirection | echo, expr, clear | [Read Report](./examine-linux-shell-io/) |
+| **Network Security** | Analyzing Network Traffic & Protocol Headers | Wireshark, tcpdump | **In Progress** |
+| **Data & Log Auditing** | Querying Security Databases & Employee Logs | SQL, MariaDB | **In Progress** |
+
+---
+
+## ✉️ Connect with Me
+
+* **Google Cybersecurity Community Profile:**
+* **LinkedIn:** https://www.linkedin.com/in/abayomi-osho-22608a3a5
