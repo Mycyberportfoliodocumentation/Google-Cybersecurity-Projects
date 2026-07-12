@@ -15,11 +15,13 @@ The hands-on environments are powered by **Qwiklabs (Google Cloud Skills Boost)*
 ---
 
 ## 📋 Professional Certifications
-* **Google Cybersecurity Professional Certificate (In Progress)**
-  * ✅ Foundations of Cybersecurity - **Completed**
-  * ✅ Play It Safe: Manage Security Risks - **Completed**
-  * ✅ Connect and Protect: Networks and Network Security - **Completed**
-  * ✅ Tools of the Trade: Linux and SQL - **Completed**
+## 📋 Professional Certifications
+
+- *Google Cybersecurity Professional Certificate (4/8 Courses Completed)*
+- [✅ Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/records/1J9Y986NYCM8) - *Completed*
+- [✅ Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/records/FT24JOXOF39I) - *Completed*
+- [✅ Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/records/B929W09ESIZF) - *Completed*
+- [✅ Tools of the Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/records/JM14WLLV8SHN) - *Completed*
 ---
 
 ## 📂 Portfolio Projects & Labs
