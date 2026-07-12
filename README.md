@@ -31,7 +31,7 @@ The hands-on environments are powered by **Qwiklabs (Google Cloud Skills Boost)*
 | **Linux & CLI** | Managing Software with APT (Suricata & tcpdump) | APT, Bash, CLI | [Read Report](./linux-software-installation/) |
 | **Linux & CLI** | Automating CLI Data Streams & I/O Redirection | echo, expr, clear | [Read Report](./examine-linux-shell-io/) |
 | **Network Security** | Analyzing Network Traffic & Protocol Headers | Wireshark, tcpdump | **[Read Report](./network-architecture-design.md)** |
-| **Data & Log Auditing** | Querying Security Databases & Employee Logs | SQL, MariaDB | **In Progress** |
+| **Data & Log Auditing** | Querying Security Databases & Employee Logs | SQL, MariaDB | [Read Report](./sql-log-queries.md) |
 
 ---
 
